@@ -1,4 +1,4 @@
-# 📧 Spam Email Classification using NLP & Machine Learning
+# Spam Email Classification
 
 This project builds a **Spam Email Classifier** using **Natural Language Processing (NLP)** and a **Naive Bayes** machine learning model to classify emails as spam or not spam.
 
